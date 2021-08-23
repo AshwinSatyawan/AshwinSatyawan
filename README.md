@@ -1,19 +1,9 @@
 ### Hi there 👋
 
-<!--
-**AshwinSatyawan/AshwinSatyawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started: 
-
 - 🔭 I’m currently working on JAVA
-- 🌱 I’m currently learning Blovkchain
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Blockchain
+
+
 Contact Me:
 [LinkedIn](https://www.linkedin.com/in/ashwin-satyawan-a98a48103/) [Instagram](https://www.instagram.com/_.sketchstagram._/) 
 
